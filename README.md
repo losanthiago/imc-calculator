@@ -7,7 +7,8 @@ The user enters his weight and height values.
 Calculate the values informing the ICM value referring to the inserted values.
 Return a message to the user if he is underweight, ideal weight, overweight, obese or morbidly obese.
 
-#PT-BR
+# #PT-BR
+
 Este programa foi desenvolvido com fins de cálculo do ICM (Indíce de Massa Corporal).
 O programa permitirá e irá:
 O usuário inserir os valores de seu peso e altura.
